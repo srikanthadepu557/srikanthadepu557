@@ -20,8 +20,6 @@
 
 I'm a seasoned **Module Lead** and **Lead Python Developer** with 13+ years of experience building scalable cloud-native applications. My passion lies in architecting robust backend systems, leading high-performing teams, and integrating cutting-edge AI technologies into production workflows.
 
-### 🎬 Content Creation
-I share my knowledge and insights across multiple platforms:
 - 📺 **YouTube**: [@srikanthviru](https://youtube.com/@srikanthviru)
 - 📸 **Instagram**: [@srikanth.adepu](https://instagram.com/srikanth.adepu)
 - 💼 **LinkedIn**: [srikanth-adepu-013b8849](https://www.linkedin.com/in/srikanth-adepu-013b8849/)
