@@ -21,7 +21,7 @@
 I'm a seasoned **Module Lead** and **Lead Python Developer** with 13+ years of experience building scalable cloud-native applications. My passion lies in architecting robust backend systems, leading high-performing teams, and integrating cutting-edge AI technologies into production workflows.
 
 
-### 🎯 About Me Highlights
+### 🎯 Highlights
 - ✨ **Architecture Enthusiast** - Designing microservices and serverless solutions at scale
 - 🤖 **AI Integration Expert** - Leveraging GitHub Copilot, Claude, and LLMs in development workflows
 - 👥 **Team Leader** - Mentoring developers and fostering engineering excellence
